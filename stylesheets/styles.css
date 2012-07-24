@@ -378,9 +378,10 @@ footer {
   float:left;
   position:fixed;
   bottom:10px;
-	padding-left: 50px;
+	padding-left: 20px;
 	/* Tiny font in the footer. */
-	font-size: 8px;
+	font-size: 9px;
+	line-height: 11px;
 }
 
 @media print, screen and (max-width: 960px) {
