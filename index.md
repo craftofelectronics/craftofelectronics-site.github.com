@@ -1,36 +1,9 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>CRAFToE Fall 2012 by craftofelectronics</title>
+---
+layout: default
+title: Testing
+---
 
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
-    <script src="javascripts/scale.fix.js"></script>
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1 class="header">CRAFToE Fall 2012</h1>
-        <p class="header">The Fall 2012 offering of Craft of Electronics @ Berea College</p>
-
-        <ul>
-          <li class="download"><a class="buttons" href="https://github.com/craftofelectronics/fall2012/zipball/master">Download ZIP</a></li>
-          <li class="download"><a class="buttons" href="https://github.com/craftofelectronics/fall2012/tarball/master">Download TAR</a></li>
-          <li><a class="buttons github" href="https://github.com/craftofelectronics/fall2012">View On GitHub</a></li>
-        </ul>
-
-        <p class="header">This project is maintained by <a class="header name" href="https://github.com/craftofelectronics">craftofelectronics</a></p>
-
-
-      </header>
-      <section>
-        <h3>Welcome to GitHub Pages.</h3>
+<h3>Welcome to GitHub Pages (woo).</h3>
 
 <p>This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. After your page is generated, you can check out the new branch:</p>
 
@@ -56,22 +29,4 @@ $ git checkout gh-pages
 <h3>Support or Contact</h3>
 
 <p>Having trouble with Pages? Check out the documentation at <a href="http://help.github.com/pages">http://help.github.com/pages</a> or contact <a href="mailto:support@github.com">support@github.com</a> and we’ll help you sort it out.</p>
-      </section>
-      <footer>
-        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a> using the Dinky theme</small></p>
-      </footer>
-    </div>
-    <!--[if !IE]><script>fixScale(document);</script><!--<![endif]-->
-		          <script type="text/javascript">
-            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-          </script>
-          <script type="text/javascript">
-            try {
-              var pageTracker = _gat._getTracker("UA-33570542-1");
-            pageTracker._trackPageview();
-            } catch(err) {}
-          </script>
-
-  </body>
-</html>
+ 
