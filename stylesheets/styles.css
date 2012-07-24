@@ -329,12 +329,27 @@ header li:hover {
 
 a.buttons {
 	-webkit-font-smoothing: antialiased;
-	background: url(../images/arrow-down.png) no-repeat;
 	font-weight: normal;
 	font-size: 16px;
 	text-shadow: rgba(0, 0, 0, 0.4) 0 -1px 0;
 	padding: 2px 2px 2px 22px;
 	height: 30px;
+}
+
+a.downarrow {
+	background: url(../images/arrow-down.png) no-repeat;
+}
+
+a.calendar {
+	background: url(../images/calendar.png) no-repeat;
+}
+
+a.upload {
+	background: url(../images/upload.png) no-repeat;
+}
+
+a.book {
+	background: url(../images/book.png) no-repeat;
 }
 
 a.github {
@@ -364,6 +379,8 @@ footer {
   position:fixed;
   bottom:10px;
 	padding-left: 50px;
+	/* Tiny font in the footer. */
+	font-size: 8px;
 }
 
 @media print, screen and (max-width: 960px) {
