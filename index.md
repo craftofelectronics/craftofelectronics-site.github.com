@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Testing
+title: Home
 ---
 
 <h3>Welcome!</h3>
