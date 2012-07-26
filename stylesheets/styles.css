@@ -1,3 +1,5 @@
+---
+---
 @import url(https://fonts.googleapis.com/css?family=Arvo:400,700,400italic);
 
 /* MeyerWeb Reset */
@@ -205,7 +207,7 @@ td {
 /* Header */
 
 .logo {
-  background: url(/images/craftoe-logo-180.png) no-repeat;
+  background: url({{ site.baseurl }}/images/craftoe-logo-180.png) no-repeat;
 	background-color: #005A8B;
   background-size: 200px;
 }
@@ -341,27 +343,27 @@ a.buttons {
 }
 
 a.downarrow {
-	background: url(../images/arrow-down.png) no-repeat;
+	background: url({{ site.baseurl }}/images/arrow-down.png) no-repeat;
 }
 
 a.home {
-	background: url(../images/home.png) no-repeat;
+	background: url({{ site.baseurl }}/images/home.png) no-repeat;
 }
 
 a.calendar {
-	background: url(../images/calendar.png) no-repeat;
+	background: url({{ site.baseurl }}/images/calendar.png) no-repeat;
 }
 
 a.upload {
-	background: url(../images/upload.png) no-repeat;
+	background: url({{ site.baseurl }}/images/upload.png) no-repeat;
 }
 
 a.book {
-	background: url(../images/book.png) no-repeat;
+	background: url({{ site.baseurl }}/images/book.png) no-repeat;
 }
 
 a.github {
-	background: url(../images/octocat-small.png) no-repeat 1px;
+	background: url({{ site.baseurl }}/images/octocat-small.png) no-repeat 1px;
 }
 
 a.buttons:hover {
