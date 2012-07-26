@@ -27,3 +27,14 @@ $ git checkout gh-pages
 <h3>Authors and Contributors</h3>
 
 [http://github.com/craftofelectronics/](http://github.com/craftofelectronics/)
+
+<!-- Jekyll Notes
+
+* http://klepas.org/jekyll-a-static-site-generator/
+* http://erjjones.github.com/blog/How-I-built-my-blog-in-one-day/
+* http://erjjones.github.com/blog/Part-two-how-I-built-my-blog/
+* https://github.com/inukshuk/jekyll-scholar/#readme
+* http://matthewowen.github.com/jekyll-mapping/
+
+* https://github.com/getpelican/pelican/#readme
+-->
