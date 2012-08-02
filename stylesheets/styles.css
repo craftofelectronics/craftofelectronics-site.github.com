@@ -30,7 +30,7 @@ time, mark, audio, video {
 body {
   padding:10px 50px 0 0;
   font-family: 'Crimson Text', serif;
-	font-size: 18px;
+	font-size: 20px;
 	color: #232323;
 	background-color: #FBFAF7;
 	margin: 0;
@@ -150,6 +150,14 @@ img {
   margin: 10px 0 32px 0;
   /* border: 1px solid #ccc; */
 }
+
+img.cornerphoto {
+  position:absolute; 
+  top:0; 
+  right:0;
+  margin: 15px 15px 15px 15px;
+  }
+
 
 
 /* Code blocks */

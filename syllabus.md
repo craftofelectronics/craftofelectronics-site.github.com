@@ -33,9 +33,21 @@ title: Syllabus
 ## Enduring Understandings
 If this was the *only* course in electricity and electronics you take at Berea College, and you never touch or study the subject again while you are a student, what do we hope you will remember 10 years from now?
 
-1. Remember to respect electricity in all its forms, and work with it safely.
-1. Remember that you can build and repair electronics using tools easily obtained.
-1. Remember that electronics are not magic, but with a little bit of theory and research, you can understand any electrical or electronic system you encounter.
+<br/>
+<div class="alert alert-success">
+  Respect electricity in all its forms, and work with it safely.
+</div>
+
+<br/>
+<div class="alert alert-success">
+  <b>You</b> can build and repair electronics using tools easily obtained.
+</div>
+
+<br/>
+<div class="alert alert-success">
+  With a little theory and research, you can understand any electrical or electronic system you encounter.
+</div>
+<br/>
 
 It might be that you remember more; at the least, you must leave this course having learned that you can work with electrical systems safely, but it takes attention and care on your part.
 
