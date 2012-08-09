@@ -7,11 +7,10 @@
     
     <!-- Web Fonts -->
     {% include web-fonts.html %}
-
-    <link rel="stylesheet" href="{{ site.base }}/stylesheets/bootstrap.css">
-    <link rel="stylesheet" href="{{ site.base }}/stylesheets/styles.css">
-    <link rel="stylesheet" href="{{ site.base }}/stylesheets/pygment_trac.css">
+    {% include stylesheets.html %}
+    
     <script src="{{ site.base }}/javascripts/scale.fix.js"></script>
+    
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -20,24 +19,19 @@
   <body>
     <div class="wrapper">
       <header class="logo">
-        <!-- <h1 class="header">{{ site.title }}</h1> -->
         <div style="height:120px"></div>
-        <!-- <p class="header">{{ site.tagline }}</p> -->
         {% include main-navbar.html %}
         <p class="header">Include contact info here.</p>
-<!--
-        <p class="header">This project is maintained by <a class="header name" href="https://github.com/craftofelectronics">craftofelectronics</a></p>
--->
       </header>
       <section>
-
-        {{ content }}
+      {% include top-navbar.html %}
+      
+      {{ content }}
 
      </section>
-      <footer>
-        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a> using the Dinky theme.<br/>Icons by <a href="http://somerandomdude.com/work/iconic/">somerandomdude</a>.</small></p>
-      </footer>
+      {% include footer.html %}
     </div>
+
     <!--[if !IE]><script>fixScale(document);</script><!--<![endif]-->
 		          <script type="text/javascript">
             var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");

@@ -216,6 +216,7 @@ td {
 
 .logo {
   background: url({{ site.base }}/images/craftoe-logo-180.png) no-repeat;
+  /* Berea Blue */
 	background-color: #005A8B;
   background-size: 200px;
 }
@@ -416,7 +417,7 @@ footer {
   }
 
 	footer {
-		border-top: 1px solid #ccc;
+		border-top: 1px solid #000;
 		margin:0 84px 0 50px;
 		padding:0;
 	}
