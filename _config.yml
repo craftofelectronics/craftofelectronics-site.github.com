@@ -4,4 +4,4 @@ auto: true
 # Site configuration
 title: Craft of Electronics
 tagline: The Fall 2012 offering of Craft of Electronics @ Berea College
-base: /fall2012
+base: 
